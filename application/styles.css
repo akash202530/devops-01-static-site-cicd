@@ -1,0 +1,9 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Segoe UI', sans-serif; color: #333; }
+header { background: #1B4F72; color: white; padding: 2rem;
+         text-align: center; }
+main { max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
+section { margin-bottom: 2rem; }
+.project-card { border: 1px solid #ddd; border-radius: 8px;
+               padding: 1.5rem; margin-top: 1rem; }
+footer { text-align: center; padding: 1rem; color: #777; }
